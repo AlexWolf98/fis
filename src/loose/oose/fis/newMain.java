@@ -1,7 +1,9 @@
+package loose.oose.fis;
+
 class newMain
 {
-    public static void main(String.args[])
+    public static void main(String args[])
     {
-        System.out.println("new main")
+        System.out.println("new main");
     }
 }
